@@ -16,7 +16,8 @@ A Cardano Developer Resource Guide.
 - [Project Catalyst](https://cardano.ideascale.com/) - Create, fund and deliver the future of Cardano.
 - [Cardano Improvement Proposals (CIPs)](https://github.com/cardano-foundation/CIPs)
 - [cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
-- [Virtual Machines (KEVM)](https://developers.cardano.org/en/virtual-machines/welcome/)
+- [Virtual Machines (KEVM)](https://developers.cardano.org/en/virtual-machines/welcome/).
+- [Glossary](https://playground.plutus.iohkdev.io/tutorial/reference/glossary.html)
 
 ## Community
 - [Slack Community](https://iohkdevcommunity.slack.com)
