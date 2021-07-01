@@ -1,5 +1,5 @@
 <h1 align="center">Cardano Developer</h1>
-<p align="centerC
+<p align="center">
   <img width="200" alt="A Cardano Developer Resource Guide" src="https://user-images.githubusercontent.com/2154886/124199016-99c9fb00-da97-11eb-973e-c321ddcbe93d.png">
 </p>
 
