@@ -1,5 +1,7 @@
-# cardano-developer
-A Cardano Developer Resource Guide.
+<h1 align="center">Cardano Developer</h1>
+<p align="centerC
+  <img width="200" alt="A Cardano Developer Resource Guide" src="https://user-images.githubusercontent.com/2154886/124199016-99c9fb00-da97-11eb-973e-c321ddcbe93d.png">
+</p>
 
 ## Blockchain
 - [🇨🇴 Criptomonedas & BlockChain 🇪🇸](https://gist.github.com/jdnichollsc/7eacb14b7e6fd938db386654bee2ad52)
