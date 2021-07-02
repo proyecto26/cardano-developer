@@ -26,6 +26,7 @@
 - [Forum Plutus](https://forum.cardano.org/c/developers/cardano-plutus/148) - Discussions specific to the Plutus smart-contract platform for the Cardano blockchain.
 - [Forum Tokens](https://forum.cardano.org/c/developers/cardano-tokens/150) - Discussions specific to Cardano Native Tokens and the ERC20 converter tool that allows users to manager their tokens on the Cardano chain.
 - [Forum KEVM](https://forum.cardano.org/c/developers/kevm/160) - IELE is an improvement on the Ethereum virtual machine (EVM).
+- [Plutus Community Documentation](https://docs.plutus-community.com/)
 
 ## Resources
 - [The Island, The Ocean and the Pond (Soon)](https://youtu.be/k8a6tX53YPs)
