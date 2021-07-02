@@ -54,6 +54,7 @@
 
 ### Haskell
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
+- [Learn Haskell for Plutus (Cardano ADA Contracts)](https://www.youtube.com/playlist?list=PLw2QsPIp2pxtkNQRvnOlV2xFkrQ8mPqAb)
 - [Haskell and Crypto Mongolia 2020](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
 - [Haskell & Cryptocurrencies](https://www.youtube.com/playlist?list=PLJ3w5xyG4JWmBVIigNBytJhvSSfZZzfTm)
 - [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
