@@ -32,20 +32,6 @@
 - [The Island, The Ocean and the Pond (Soon)](https://youtu.be/k8a6tX53YPs)
 - [Ethereum vs Cardano: What You NEED To Know!](https://youtu.be/bO0F7EmHshc).
 
-## Languages
-
-### Haskell
-- [Ogmios](https://github.com/cardanosolutions/ogmios) - A JSON-WSP WebSocket bridge for cardano-node.
-
-### JavaScript/NodeJS
-
-- [cardano-ogmios](https://github.com/CardanoSolutions/ogmios/tree/master/clients/TypeScript) - TypeScript monorepo with client libraries for Cardano Ogmios.
-- [cardano-crypto.js](https://github.com/vacuumlabs/cardano-crypto.js) - Cardano cryptography from the official cardano-crypto transpiled to js with emscripten.
-- [cardano-wallet-js](https://github.com/tango-crypto/cardano-wallet-js) - a javascript/typescript SDK for Cardano with a several functionalities (powered by TANGO stake pool).
-- [cardano-addresses](https://github.com/input-output-hk/cardano-addresses) - Addresses and mnemonic manipulation & derivations.
-- [Cardano Mnemonic Generator](https://github.com/NoCtrlZ/bip39-for-cardano)
-- [wallet-address-validator](https://github.com/christsim/multicoin-address-validator) - Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses.
-
 ## Plutus Pioneer Program
 - [Plutus Pioneer Program](https://developers.cardano.org/en/plutus-pioneer-program/)
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
@@ -97,6 +83,20 @@
 
 ### Lecture #10
 - [Video](https://youtu.be/Dg36h9YPMz4)
+
+## Languages
+
+### Haskell
+- [Ogmios](https://github.com/cardanosolutions/ogmios) - A JSON-WSP WebSocket bridge for cardano-node.
+
+### JavaScript/NodeJS
+
+- [cardano-ogmios](https://github.com/CardanoSolutions/ogmios/tree/master/clients/TypeScript) - TypeScript monorepo with client libraries for Cardano Ogmios.
+- [cardano-crypto.js](https://github.com/vacuumlabs/cardano-crypto.js) - Cardano cryptography from the official cardano-crypto transpiled to js with emscripten.
+- [cardano-wallet-js](https://github.com/tango-crypto/cardano-wallet-js) - a javascript/typescript SDK for Cardano with a several functionalities (powered by TANGO stake pool).
+- [cardano-addresses](https://github.com/input-output-hk/cardano-addresses) - Addresses and mnemonic manipulation & derivations.
+- [Cardano Mnemonic Generator](https://github.com/NoCtrlZ/bip39-for-cardano)
+- [wallet-address-validator](https://github.com/christsim/multicoin-address-validator) - Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses.
 
 ## Contributing ✨
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
