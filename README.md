@@ -38,6 +38,8 @@
 - [The main GitHub repository for Plutus](https://github.com/input-output-hk/plutus)
 - [Some basic Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/tutorials/index.html)
 - [Plutus: what you need to know](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/#disqus_thread)
+- [Plutus Pioneer Program Lecture Notes](https://plutus-pioneer-program.readthedocs.io/)
+- [What is the Plutus Platform?](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html#what-is-the-plutus-platform)
 
 ### Haskell
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
@@ -52,8 +54,8 @@
 
 ### Lecture #1
 - [GitHub repository](https://github.com/input-output-hk/plutus-pioneer-program)
-- [Iteration #1](https://youtu.be/IEn6jUo-0vU)
-- [Iteration #2](https://youtu.be/_zr3W8cgzIQ)
+- [Video Iteration #1](https://youtu.be/IEn6jUo-0vU)
+- [Video Iteration #2](https://youtu.be/_zr3W8cgzIQ)
 
 ### Lecture #2
 - [Video](https://youtu.be/E5KRk5y9KjQ)
