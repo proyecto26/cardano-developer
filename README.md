@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/proyecto26/cardano-developer/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=jdnichollsc">
+    <img src="https://img.shields.io/twitter/follow/jdnichollsc.svg?label=Follow%20@jdnichollsc" alt="Follow @jdnichollsc" />
+  </a>
+</p>
+
 <h1 align="center">Cardano Developer</h1>
 <p align="center">
   <img width="200" alt="A Cardano Developer Resource Guide" src="https://user-images.githubusercontent.com/2154886/124199016-99c9fb00-da97-11eb-973e-c321ddcbe93d.png">
