@@ -8,9 +8,10 @@
 
 ## Blog
 - [🇨🇴 ¿Qué es Cardano (ADA)? 🇪🇸](https://academy.bit2me.com/que-es-cardano-ada/)
-- [Introducing the new Plutus Playground](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/)
-- [Native tokens on Cardano; core principles and points of difference](https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/)
-- [Devnets: Building bridges to developer communities](https://iohk.io/en/blog/posts/2020/12/17/devnets-building-bridges-to-developer-communities/)
+- [Introducing the new Plutus Playground](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/) - Developers are invited to test out our improved smart contract tools before full release.
+- [Native tokens on Cardano; core principles and points of difference](https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/) - The four principles guiding our approach, and the key advantages.
+- [Devnets: Building bridges to developer communities](https://iohk.io/en/blog/posts/2020/12/17/devnets-building-bridges-to-developer-communities/) - Our new interoperability platforms (devnets) will expand Cardano's reach with support for the Solidity/Ethereum communities and beyond.
+- [Stablefees and the Decentralized Reserve System](https://iohk.io/en/blog/posts/2021/06/10/stablefees-and-the-decentralized-reserve-system/) - Exploring a new mechanism to help make fees fair, stable, and more predictable over time.
 
 ## Cardano
 - [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
