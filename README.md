@@ -40,6 +40,7 @@
 - [Plutus: what you need to know](https://iohk.io/en/blog/posts/2021/04/13/plutus-what-you-need-to-know/#disqus_thread)
 - [Plutus Pioneer Program Lecture Notes](https://plutus-pioneer-program.readthedocs.io/)
 - [What is the Plutus Platform?](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html#what-is-the-plutus-platform)
+- [Lessons of the first iteration](https://github.com/input-output-hk/plutus-pioneer-program/tree/first-iteration)
 
 ### Haskell
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
