@@ -59,6 +59,7 @@
 - [Video Iteration #1](https://youtu.be/IEn6jUo-0vU)
 - [Video Iteration #2](https://youtu.be/_zr3W8cgzIQ)
 - [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
+- [Q&A session](https://zoom.us/rec/share/QU7jcp8S0A-xlmXMIKlua5GoTpL0YwofDlnhSmzgZh1PeFSKqSn9YtzqIGmb6TvC.qZiLZ3thyTOy8dQ0) - Access Passcode: WbB7MU$C
 
 ### Lecture #2
 - [Video](https://youtu.be/E5KRk5y9KjQ)
