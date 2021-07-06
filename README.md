@@ -56,6 +56,7 @@
 - [GitHub repository](https://github.com/input-output-hk/plutus-pioneer-program)
 - [Video Iteration #1](https://youtu.be/IEn6jUo-0vU)
 - [Video Iteration #2](https://youtu.be/_zr3W8cgzIQ)
+- [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
 
 ### Lecture #2
 - [Video](https://youtu.be/E5KRk5y9KjQ)
