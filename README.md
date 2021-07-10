@@ -71,7 +71,8 @@
 - [Q&A session](https://zoom.us/rec/share/QU7jcp8S0A-xlmXMIKlua5GoTpL0YwofDlnhSmzgZh1PeFSKqSn9YtzqIGmb6TvC.qZiLZ3thyTOy8dQ0) - Access Passcode: WbB7MU$C
 
 ### Lecture #2
-- [Video](https://youtu.be/E5KRk5y9KjQ)
+- [Video Iteration #1](https://youtu.be/E5KRk5y9KjQ)
+- [Video Iteration #2](https://youtu.be/sN3BIa3GAOc)
 - [Q&A session](https://drive.google.com/file/d/1SQcxh1HF1hyo7d9FwSoGV9nk-H1cJixK/view?usp=sharing)
 
 ### Lecture #3
