@@ -1,6 +1,11 @@
 # Code Basics
 A list of basics topics working with `Haskell`.
 
+Commands:
+- `gchi` - run the package
+- `:r` - reload package
+- `:q` - close interpreter
+
 <details open>
   <summary><b>Hello world</b></summary>
 
