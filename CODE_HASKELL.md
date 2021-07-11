@@ -6,7 +6,7 @@ Commands:
 - `:r` - reload package
 - `:q` - close interpreter
 
-<details open>
+<details>
   <summary><b>Hello world</b></summary>
 
   - helloWorld.hs:
@@ -22,5 +22,25 @@ Commands:
   ```sh
   ghci helloWorld.hs
   main
+  ```
+</details>
+
+
+<details>
+  <summary><b>Sum a range of numbers</b></summary>
+
+  - myLib.hs:
+  ```hs
+  module MyLib (sumNumbers) where
+
+  -- Monad
+  sumNumbers :: IO ()
+  sumNumbers = print (sum [1..10])
+  ```
+  
+  - Run program:
+  ```sh
+  ghci myLib.hs
+  sumNumbers
   ```
 </details>
