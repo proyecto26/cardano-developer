@@ -51,6 +51,7 @@
 - [Plutus Pioneer Program Lecture Notes](https://plutus-pioneer-program.readthedocs.io/)
 - [What is the Plutus Platform?](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html#what-is-the-plutus-platform)
 - [Lessons of the first iteration](https://github.com/input-output-hk/plutus-pioneer-program/tree/first-iteration)
+- [Plutus Pioneer Program exercises by Kappos Angelos-Dionysios](https://github.com/adacapo21/plutusPioneerProgram)
 
 ### Haskell
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
@@ -64,7 +65,7 @@
 - [Curso de Haskell desde cero](https://www.youtube.com/playlist?list=PLD2wfKpqmxnkHPK_Tzv80HCwOaYph33pH)
 
 ### Lecture #1
-- [GitHub repository](https://github.com/input-output-hk/plutus-pioneer-program)
+- [GitHub repository for code examples and homework](https://github.com/input-output-hk/plutus-pioneer-program)
 - [Video Iteration #1](https://youtu.be/IEn6jUo-0vU)
 - [Video Iteration #2](https://youtu.be/_zr3W8cgzIQ)
 - [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
@@ -72,8 +73,10 @@
 
 ### Lecture #2
 - [Video Iteration #1](https://youtu.be/E5KRk5y9KjQ)
-- [Video Iteration #2](https://youtu.be/sN3BIa3GAOc)
-- [Q&A session](https://drive.google.com/file/d/1SQcxh1HF1hyo7d9FwSoGV9nk-H1cJixK/view?usp=sharing)
+- [Video Iteration #2](https://youtu.be/sN3BIa3GAOc) - simple on-chain validation.
+- [Q&A session Iteration #1](https://drive.google.com/file/d/1SQcxh1HF1hyo7d9FwSoGV9nk-H1cJixK/view?usp=sharing)
+- [Q&A session Iteration #2](https://zoom.us/rec/share/mfAfBcg8LfGstgdkvXYyP9BVUDiBzm1O_ED9QaTobbcuPzOXOZzGpGBndhr2CauU.bgV5nicKWogoT3Kj) - Access Passcode: WbB7MU$C
+- [Submit questions and find a study buddy](https://www.reetro.app/board/5f85bdaad55e9b00162996dc/60757510b8f6d40016dee05b)
 
 ### Lecture #3
 - [Video](https://youtu.be/Lk1eIVm_ZTQ)
