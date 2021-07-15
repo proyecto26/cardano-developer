@@ -2,7 +2,7 @@
 A list of basics topics working with `Haskell`.
 
 Commands:
-- `gchi` - run the package
+- `ghci` - run the package
 - `:r` - reload package
 - `:q` - close interpreter
 
