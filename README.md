@@ -79,7 +79,8 @@
 - [Submit questions and find a study buddy](https://www.reetro.app/board/5f85bdaad55e9b00162996dc/60757510b8f6d40016dee05b)
 
 ### Lecture #3
-- [Video](https://youtu.be/Lk1eIVm_ZTQ)
+- [Video Iteration #1](https://youtu.be/Lk1eIVm_ZTQ)
+- [Video Iteration #3](https://youtu.be/6_rfCCY9_gY) - script contexts, time handling and parameterized contracts.
 - [Q&A session](https://zoom.us/rec/share/bey-Zp1QhNn5b8B65YakqW-PNkTCjk4nx5Mo2-LZENt6IHLuDXySjFhfvC0zJTAX.gBgW9O3CDvX8mICC) - Access Passcode: rX+v8g6n
 
 ### Lecture #4
