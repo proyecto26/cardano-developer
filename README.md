@@ -30,6 +30,8 @@
 - [cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [Virtual Machines (KEVM)](https://developers.cardano.org/en/virtual-machines/welcome/).
 - [Glossary](https://playground.plutus.iohkdev.io/tutorial/reference/glossary.html)
+- [The Island, The Ocean and the Pond (Soon)](https://youtu.be/k8a6tX53YPs)
+- [Ethereum vs Cardano: What You NEED To Know!](https://youtu.be/bO0F7EmHshc).
 
 ## Community
 - [Slack Community](https://iohkdevcommunity.slack.com)
@@ -37,10 +39,6 @@
 - [Forum Tokens](https://forum.cardano.org/c/developers/cardano-tokens/150) - Discussions specific to Cardano Native Tokens and the ERC20 converter tool that allows users to manager their tokens on the Cardano chain.
 - [Forum KEVM](https://forum.cardano.org/c/developers/kevm/160) - IELE is an improvement on the Ethereum virtual machine (EVM).
 - [Plutus Community Documentation](https://docs.plutus-community.com/)
-
-## Resources
-- [The Island, The Ocean and the Pond (Soon)](https://youtu.be/k8a6tX53YPs)
-- [Ethereum vs Cardano: What You NEED To Know!](https://youtu.be/bO0F7EmHshc).
 
 ## Plutus Pioneer Program
 - [Plutus Pioneer Program](https://developers.cardano.org/en/plutus-pioneer-program/)
@@ -104,7 +102,9 @@
 ### Lecture #10
 - [Video](https://youtu.be/Dg36h9YPMz4)
 
-## Languages
+## Resources
+
+- [Cardano HW cli tool](https://github.com/vacuumlabs/cardano-hw-cli) - Cardano CLI tool for hardware wallets.
 
 ### Haskell
 - [Ogmios](https://github.com/cardanosolutions/ogmios) - A JSON-WSP WebSocket bridge for cardano-node.
