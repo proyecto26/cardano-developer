@@ -13,10 +13,11 @@
 </p>
 
 ## Blockchain
-- [🇨🇴 Criptomonedas & BlockChain 🇪🇸](https://gist.github.com/jdnichollsc/7eacb14b7e6fd938db386654bee2ad52)
+- [How Bitcoin Works Under the Hood](https://youtu.be/Lx9zgZCMqXE) - A somewhat technical explanation of how Bitcoin works.
+- [🇨🇴 Criptomonedas & BlockChain 🇪🇸](https://gist.github.com/jdnichollsc/7eacb14b7e6fd938db386654bee2ad52) - A summary in Spanish about Blockchain and Cryptocurrencies.
 
 ## Blog
-- [🇨🇴 ¿Qué es Cardano (ADA)? 🇪🇸](https://academy.bit2me.com/que-es-cardano-ada/)
+- [🇨🇴 ¿Qué es Cardano (ADA)? 🇪🇸](https://academy.bit2me.com/que-es-cardano-ada/) - A summary in Spanish about Cardano.
 - [Introducing the new Plutus Playground](https://iohk.io/en/blog/posts/2021/01/25/introducing-the-new-plutus-playground/) - Developers are invited to test out our improved smart contract tools before full release.
 - [Native tokens on Cardano; core principles and points of difference](https://iohk.io/en/blog/posts/2020/12/09/native-tokens-on-cardano-core-principles-and-points-of-difference/) - The four principles guiding our approach, and the key advantages.
 - [Devnets: Building bridges to developer communities](https://iohk.io/en/blog/posts/2020/12/17/devnets-building-bridges-to-developer-communities/) - Our new interoperability platforms (devnets) will expand Cardano's reach with support for the Solidity/Ethereum communities and beyond.
