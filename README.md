@@ -51,6 +51,7 @@
 - [What is the Plutus Platform?](https://plutus.readthedocs.io/en/latest/plutus/explanations/platform.html#what-is-the-plutus-platform)
 - [Lessons of the first iteration](https://github.com/input-output-hk/plutus-pioneer-program/tree/first-iteration)
 - [Plutus Pioneer Program exercises by Kappos Angelos-Dionysios](https://github.com/adacapo21/plutusPioneerProgram)
+- [Plutus Pioneer Program (2nd Cohort)](https://github.com/renardyreveur/Plutus-Pioneer-Program) - The Notes and Thoughts of a Joyous Pioneer.
 
 ### Haskell
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
