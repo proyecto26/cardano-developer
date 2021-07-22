@@ -3,6 +3,7 @@ A list of basics topics working with `Haskell`.
 
 Commands:
 - `ghci` - run the package
+- `:l` - load file
 - `:r` - reload package
 - `:q` - close interpreter
 
@@ -98,5 +99,22 @@ Commands:
   -- Free point style (Event delegation)
   mul2 = \x -> x * 2
   map mul2 [1..5]
+  ```
+</details>
+  
+<details>
+  <summary><b>I/O</b></summary>
+
+  - myFile.hs:
+  ```hs
+  greeting() = do
+    name <- getLine
+    eventName <- getLine
+  ```
+  
+  - Run program:
+  ```sh
+  stack ghci
+  :l myFile.hs
   ```
 </details>
