@@ -47,6 +47,7 @@ Commands:
 
 <details>
   <summary><b>Functions</b></summary>
+
   ```hs
   hello name = "Hello, " ++ name
   hello "Juan"
@@ -55,6 +56,7 @@ Commands:
 
 <details>
   <summary><b>Types</b></summary>
+
   ```hs
   -- 2 params and return data
   f :: Int -> Int -> Int
@@ -65,6 +67,7 @@ Commands:
 
 <details>
   <summary><b>Lists</b></summary>
+
   ```hs
   list = ["A", "B", "C"]
   head list -- "A"
@@ -74,6 +77,7 @@ Commands:
 
 <details>
   <summary><b>Anonymous functions</b></summary>
+
   ```hs
   -- a function without a name (Lambda abstraction)
   f = \x y -> x*y+x+y
@@ -83,6 +87,7 @@ Commands:
 
 <details>
   <summary><b>Higher-order functions</b></summary>
+
   ```hs
   [2*x | x <- [0..10]]
   -- [0, 2, 4, etc]
