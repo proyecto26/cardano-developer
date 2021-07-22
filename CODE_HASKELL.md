@@ -110,11 +110,36 @@ Commands:
   greeting() = do
     name <- getLine
     eventName <- getLine
+    putStrLn ("Hola" ++ name)
+    putStrLn ("Espero " ++ eventName ++ " te guste")
   ```
   
   - Run program:
   ```sh
   stack ghci
   :l myFile.hs
+  greeting()
+  ```
+</details>
+  
+<details>
+  <summary><b>Recursion</b></summary>
+
+  - myFile.hs:
+  ```hs
+  -- State machines?
+  myFilter :: (a -> Bool) -> [a] -> [a]
+  myFilter fn [] = []
+  myFilter fn (x:xs)
+    | fn x = x : myFilter fn xs
+    | otherwise = myFilter fn xs
+  ```
+  
+  - Run program:
+  ```sh
+  stack ghci
+  :l myFile.hs
+  myFilter (\x -> x > 3) [1, 2, 3, 4] # greater than 3
+  myFilter (>3) [1, 2, 3, 4]
   ```
 </details>
