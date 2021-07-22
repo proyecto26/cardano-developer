@@ -153,12 +153,13 @@ Commands:
   f x = x*(x+1)
   lst = map f [1..10]
   
-  -- reduce
+  -- using prefix functions
   div = (/)
+  
+  -- reduce
   resultLeft = foldl div 1 [1..10]
   
   -- reduceRight
-  div = (/)
   resultRight = foldr div 1 [1..10]
   
   main = do
