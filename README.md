@@ -12,6 +12,10 @@
   <img width="200" alt="A Cardano Developer Resource Guide" src="https://user-images.githubusercontent.com/2154886/124199016-99c9fb00-da97-11eb-973e-c321ddcbe93d.png">
 </p>
 
+## Code Examples
+- [Haskell](./CODE_HASKELL.md)
+- [Plutus](./CODE_PLUTUS.md)
+
 ## Blockchain
 - [How Bitcoin Works Under the Hood](https://youtu.be/Lx9zgZCMqXE) - A somewhat technical explanation of how Bitcoin works.
 - [🇨🇴 Criptomonedas & BlockChain 🇪🇸](https://gist.github.com/jdnichollsc/7eacb14b7e6fd938db386654bee2ad52) - A summary in Spanish about Blockchain and Cryptocurrencies.
