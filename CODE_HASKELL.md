@@ -105,7 +105,7 @@ Commands:
 <details>
   <summary><b>I/O</b></summary>
 
-  - myFile.hs:
+  - io.hs:
   ```hs
   greeting() = do
     name <- getLine
@@ -117,7 +117,7 @@ Commands:
   - Run program:
   ```sh
   stack ghci
-  :l myFile.hs
+  :l io.hs
   greeting()
   ```
 </details>
@@ -125,21 +125,50 @@ Commands:
 <details>
   <summary><b>Recursion</b></summary>
 
-  - myFile.hs:
+  - recursion.hs:
   ```hs
   -- State machines?
   myFilter :: (a -> Bool) -> [a] -> [a]
   myFilter fn [] = []
-  myFilter fn (x:xs)
-    | fn x = x : myFilter fn xs
-    | otherwise = myFilter fn xs
+  myFilter fn (head:tail)
+    | fn head = head : myFilter fn tail
+    | otherwise = myFilter fn tail
   ```
   
   - Run program:
   ```sh
   stack ghci
-  :l myFile.hs
+  :l recursion.hs
   myFilter (\x -> x > 3) [1, 2, 3, 4] # greater than 3
   myFilter (>3) [1, 2, 3, 4]
+  ```
+</details>
+
+<details>
+  <summary><b>Loops</b></summary>
+
+  - loops.hs:
+  ```hs
+  -- map
+  f x = x*(x+1)
+  lst = map f [1..10]
+  
+  -- reduce
+  div = (/)
+  resultLeft = foldl div 1 [1..10]
+  
+  -- reduceRight
+  div = (/)
+  resultRight = foldr div 1 [1..10]
+  
+  main = do
+    print lst
+    print resultLeft
+    print resultRight
+  ```
+  
+  - Run program:
+  ```sh
+  stack runhaskell loops.hs
   ```
 </details>
