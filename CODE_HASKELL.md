@@ -172,3 +172,18 @@ Commands:
   stack runhaskell loops.hs
   ```
 </details>
+
+<details>
+  <summary><b>Currying</b></summary>
+
+  ```hs
+  currying :: Int -> Int -> Int -> Int
+  currying x y z = x*y+z
+  currying 2 3 4 -- 10
+  
+  -- manual example (not necessary in Haskell, currying works automatically)
+  currying'   = \x y z -> x*y+z
+  currying''  = \x -> (\y z -> x*y+z)
+  currying''' = \x -> (\y -> (\z -> x*y+z))
+  ```
+</details>
