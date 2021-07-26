@@ -19,6 +19,7 @@
 ## Blockchain
 - [How Bitcoin Works Under the Hood](https://youtu.be/Lx9zgZCMqXE) - A somewhat technical explanation of how Bitcoin works.
 - [🇨🇴 Criptomonedas & BlockChain 🇪🇸](https://gist.github.com/jdnichollsc/7eacb14b7e6fd938db386654bee2ad52) - A summary in Spanish about Blockchain and Cryptocurrencies.
+- [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFI & Blockchain researches and tools.
 
 ## Blog
 - [🇨🇴 ¿Qué es Cardano (ADA)? 🇪🇸](https://academy.bit2me.com/que-es-cardano-ada/) - A summary in Spanish about Cardano.
