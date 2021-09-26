@@ -125,6 +125,13 @@
 - [Cardano Mnemonic Generator](https://github.com/NoCtrlZ/bip39-for-cardano)
 - [wallet-address-validator](https://github.com/christsim/multicoin-address-validator) - Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses.
 
+### Ecosystem
+- https://astarter.io
+- https://www.adanianlabs.io
+- https://emurgo.io
+- https://www.evg.co
+- https://www.adaverse.co
+
 ## Contributing ✨
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated** ❤️. 
