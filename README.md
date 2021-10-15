@@ -29,6 +29,7 @@
 - [Stablefees and the Decentralized Reserve System](https://iohk.io/en/blog/posts/2021/06/10/stablefees-and-the-decentralized-reserve-system/) - Exploring a new mechanism to help make fees fair, stable, and more predictable over time.
 
 ## Cardano
+- [Cardano whiteboard; overview with Charles Hoskinson](https://youtu.be/Ja9D0kpksxw)
 - [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
 - [Cardano Documentation](https://docs.cardano.org/en/latest/)
 - [Project Catalyst](https://cardano.ideascale.com/) - Create, fund and deliver the future of Cardano.
