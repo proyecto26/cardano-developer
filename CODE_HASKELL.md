@@ -191,6 +191,7 @@ Commands:
 
 ## Credits
   
+- [@jessecogollo](https://github.com/jessecogollo)
 - [JS vs Haskell una comparación impura](https://speakerdeck.com/jessecogollo/js-vs-haskell-una-comparacion-impura)
 - [Haskell](https://www.haskell.org/)
 - [Speller example](https://gist.github.com/jessecogollo/244a9bdb94b99d05e49fa16303cc9ad8)
