@@ -190,9 +190,7 @@ Commands:
 </details>
 
 ## Credits
-  
-- [@jessecogollo](https://github.com/jessecogollo)
-- [JS vs Haskell una comparación impura](https://speakerdeck.com/jessecogollo/js-vs-haskell-una-comparacion-impura)
+- [JS vs Haskell una comparación impura](https://speakerdeck.com/jessecogollo/js-vs-haskell-una-comparacion-impura) by [@jessecogollo](https://github.com/jessecogollo)
 - [Haskell](https://www.haskell.org/)
 - [Speller example](https://gist.github.com/jessecogollo/244a9bdb94b99d05e49fa16303cc9ad8)
 - [Hanged example](https://gist.github.com/jessecogollo/2e8d38de900d5631786f8d7963e9ac70)
